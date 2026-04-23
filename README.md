@@ -6,3 +6,4 @@
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lugan1&theme=flat&column=7)](https://github.com/lugan1/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=lugan1)](https://github.com/lugan1/)
